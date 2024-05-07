@@ -1,6 +1,6 @@
 #Variables
 nome = "Isa Ramos"
-nivel = 10000
+nivel = int(input("Digite seu XP: "))
 
 #Decision
 if nivel < 1000: 
