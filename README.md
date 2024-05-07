@@ -17,6 +17,11 @@ Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de 
 
 Ao final deve se exibir uma mensagem: "O Herói de nome **{nome}** está no nível de **{nivel}**."
 
+Preview da minha resolução:
+
+![preview_desafio1](https://github.com/IsaRamos/desafio-dio/blob/main/gifs/preview_desafio1.gif)
+
+📌 [Código feito para o Desafio #1](https://github.com/IsaRamos/desafio-dio/blob/main/desafio1.py)
 
 ## Ferramentas
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
