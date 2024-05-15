@@ -35,9 +35,9 @@ Crie uma função que recebe como parâmetro a quantidade de vitórias e derrota
 Ao final deve se exibir uma mensagem: "O Herói tem de saldo de **{saldo}** está no nível de **{nivel}**"
 
 Preview da minha resolução:
-![preview_desafio2]()
+![preview_desafio2](https://github.com/IsaRamos/desafio-dio/blob/main/gifs/preview_desafio2.gif)
 
-📌 [Código feito para o Desafio #2]()
+📌 [Código feito para o Desafio #2](https://github.com/IsaRamos/desafio-dio/blob/main/desafio2.py)
 
 ## Ferramentas
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
